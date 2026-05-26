@@ -1,0 +1,16 @@
+# exports
+*.json
+*.txt
+
+# secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
